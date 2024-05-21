@@ -5,4 +5,4 @@ IRIS MW3 AIO + WOOFER,online,1.00.04,https://raw.githubusercontent.com/Adev47/LO
 IRIS MW3 AIO V2,online,1.00.03,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Winc_2.3.exe
 IRIS MW3 PRIVACY PROTECTOR,online,1.00.03,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Winc_2.3.exe
 SPOOFER BLOCKER V2,online,1.00.03,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Winc_2.3.exe
-VPN,online,1.00.03,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Winc_2.3.exe
+VPN,online,1.00.04,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Winc_2.3.exe
