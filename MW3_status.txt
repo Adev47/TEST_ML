@@ -1,4 +1,4 @@
-IRIS MW3 CHAIR + WOOFER,online,1.00.03,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Winc_2.3.exe
+IRIS MW3 CHAIR + WOOFER,online,1.00.04,https://cdn.discordapp.com/attachments/1125752520229273630/1239505983659839508/Winc_2.3.exe?ex=66432b67&is=6641d9e7&hm=051dfb7db709957f5734725fd6fdc0e21f6d329f1dc1ae0f0ac81f2541010b28&
 IRIS MW3 UA + WOOFER V3,updating,1.00.03,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Winc_2.3.exe
 MW3 UA + WOOFER V2,online,1.00.03,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Winc_2.3.exe
 IRIS MW3 AIO + WOOFER,online,1.00.04,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Winc_2.3.exe
