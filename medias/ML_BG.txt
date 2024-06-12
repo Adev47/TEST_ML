@@ -1,1 +1,1 @@
-v1,1.00.03,https://cdn.discordapp.com/attachments/1162144992953909287/1250461520295362670/light-stains-faded-dull-wallpaper-thumb.jpg?ex=666b068a&is=6669b50a&hm=d29fb6ea4ee938c3ad316bd71f2ba0d78306e70584a893e4ace46ce94c4a9983&
+v1,1.00.03,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/v5.png
