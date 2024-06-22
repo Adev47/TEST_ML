@@ -1,0 +1,1 @@
+v1,1.00.1,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/v1.png
